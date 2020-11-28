@@ -13,6 +13,11 @@
         "imageUrl": "/static/libs/arduino-mkr1000.jpg"
     },
     {
+        "name": "Seeed",
+        "url": "/boards/seeed",
+        "imageUrl": "/static/libs/seeed-wio-terminal.jpg"
+    },
+    {
         "name": "SparkFun",
         "url": "/boards/sparkfun",
         "imageUrl": "/static/libs/sparkfun-redboard-turbo.jpg"
@@ -117,7 +122,7 @@
     {
         "name": "Boards",
         "url": "/boards",
-        "imageUrl": "/static/libs/adafruit-circuit-playground-express.jpg"
+        "imageUrl": "/static/libs/seeed-wio-terminal.jpg"
     }
 ]
 ```
@@ -126,6 +131,7 @@
 
 [Adafruit](/boards/adafruit),
 [Arduino](/boards/arduino),
+[Seeed](/boards/seeed),
 [SparkFun](/boards/sparkfun),
 [XinaBox](/boards/xinabox),
 [Misc](/boards/misc),

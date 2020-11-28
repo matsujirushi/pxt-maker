@@ -6,6 +6,12 @@ This editor supports various maker boards, based on SAMD21, SAMD51, NRF52.
 
 ### ~ codecard
 
+* name: Seeed
+* url: /boards/seeed
+* imageUrl: /static/libs/seeed-wio-terminal.jpg
+
+---
+
 * name: Adafruit
 * url: /boards/adafruit
 * imageUrl: /static/libs/adafruit-circuit-playground-express.jpg
@@ -46,6 +52,7 @@ This editor supports various maker boards, based on SAMD21, SAMD51, NRF52.
 ## See Also
 
 [Adafruit](/boards/adafruit),
+[Seeed](/boards/seeed),
 [Sparkfun](/boards/sparkfun),
 [Arduino](/boards/arduino),
 [Misc](/boards/misc),

@@ -1,0 +1,35 @@
+{
+    "name": "seeed-wio-terminal",
+    "description": "Support for Seeed Wio Terminal",
+    "files": [
+        "README.md",
+        "device.d.ts",
+        "config.ts",
+
+        "board.json",
+        "board.svg"
+    ],
+    "core": true,
+    "compileServiceVariant": "samd51",
+    "dependencies": {
+        "core---samd51": "file:../core---samd51",
+        "feather": "file:../feather",
+        "pixel": "file:../pixel",
+        "light": "file:../light",
+        "accelerometer": "file:../accelerometer",
+        "buttons": "file:../buttons"
+    },
+    "public": true,
+    "firmwareUrl": "https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/update-bootloader",
+    "features": [
+        "uf2",
+        "screen",
+        "buttond0",
+        "buttond1",
+        "accelerometer",
+        "jacdac",
+        "pixel",
+        "light",
+        "accelerometer"
+    ]
+}

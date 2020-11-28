@@ -23,6 +23,7 @@
     "galleries": {
         "Adafruit": "/boards/adafruit",
         "Arduino": "/boards/arduino",
+        "Seeed": "/boards/seeed",
         "SparkFun": "/boards/sparkfun",
         "XinaBox": "/boards/xinabox",
         "Misc": "/boards/misc",

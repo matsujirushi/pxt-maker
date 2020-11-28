@@ -1,5 +1,7 @@
 # Boards
 
+* [Seeed](/boards/seeed)
+    * [Seeed Wio Terminal](/boards/seeed-wio-terminal)
 * [Adafruit](/boards/adafruit)
     * [Metro M0 Express](/boards/adafruit-metro-m0-express)
     * [Feather M0 Express](/boards/adafruit-feather-m0-express)
